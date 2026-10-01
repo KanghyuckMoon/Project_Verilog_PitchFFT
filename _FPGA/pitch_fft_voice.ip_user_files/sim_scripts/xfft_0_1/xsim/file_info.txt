@@ -1,0 +1,2 @@
+xfft_0.vhd,vhdl,xil_defaultlib,../../../../pitch_fft_voice.gen/sources_1/ip/xfft_0_1/sim/xfft_0.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

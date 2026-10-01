@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:34:34 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed Sep 30 12:04:38 2026
+# Process ID         : 287552
+# Current directory  : /home/user13/Documents/MoonLab/lab_AMD/pitch_fft_voice/pitch_fft_voice.runs/impl_1
+# Command line       : vivado -log pitch_fft_voice_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source pitch_fft_voice_top.tcl -notrace
+# Log file           : /home/user13/Documents/MoonLab/lab_AMD/pitch_fft_voice/pitch_fft_voice.runs/impl_1/pitch_fft_voice_top.vdi
+# Journal file       : /home/user13/Documents/MoonLab/lab_AMD/pitch_fft_voice/pitch_fft_voice.runs/impl_1/vivado.jou
+# Running On         : user13-H410M-HD3P
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.4 LTS
+# Processor Detail   : Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+# CPU Frequency      : 3999.938 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 16687 MB
+# Swap memory        : 32000 MB
+# Total Virtual      : 48688 MB
+# Available Virtual  : 39296 MB
+#-----------------------------------------------------------
+source pitch_fft_voice_top.tcl -notrace
